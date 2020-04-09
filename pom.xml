@@ -120,8 +120,8 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.6.3</version>
-				<inherited>3.6.3</inherited>
+				<version>1.8</version>
+				<inherited>1.8</inherited>
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
